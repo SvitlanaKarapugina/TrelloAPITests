@@ -38,7 +38,6 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 # Intellij
-!.idea/
 .idea/*
 !.idea/runConfigurations
 *.iws
